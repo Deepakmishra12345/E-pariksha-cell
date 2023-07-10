@@ -1,0 +1,7 @@
+npm init
+npm install express body-parser mongoose nodemon
+nodemon index.js
+npm install -g nodemon
+
+use dbs
+db.users.find().pretty()
